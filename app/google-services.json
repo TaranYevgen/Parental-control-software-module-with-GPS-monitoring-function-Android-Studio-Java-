@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "421621355694",
+    "project_id": "phone-track-1b9fb",
+    "storage_bucket": "phone-track-1b9fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:421621355694:android:dca23910d8647984dec93f",
+        "android_client_info": {
+          "package_name": "com.example.phonetrack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "421621355694-uo4c43o347uuu0jnhf4lg8lnaq4a7484.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYmFGgj7f-lAuVUWOJCpAUF9lVduszyFs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "421621355694-uo4c43o347uuu0jnhf4lg8lnaq4a7484.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
